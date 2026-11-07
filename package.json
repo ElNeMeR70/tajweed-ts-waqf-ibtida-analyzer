@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-waqf-ibtida-analyzer",
+  "version": "1.0.0",
+  "description": "Syntactic-Semantic Waqf & Ibtida Pause Classifier (مصنف الوقف التام والكافي والحسن والقبيح)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
